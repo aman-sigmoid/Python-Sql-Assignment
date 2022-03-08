@@ -1,0 +1,30 @@
+2022-03-07 23:30:07,172: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:30:07,196: INFO --> list_of_employees() --> Connection Close
+2022-03-07 23:30:07,202: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:30:07,224: INFO --> total_compensation() --> Connection Close
+2022-03-07 23:30:07,301: INFO --> get_engine() --> Engine successfully created
+2022-03-07 23:30:07,309: INFO --> file_to_query() --> Query Execution Unsuccessful
+2022-03-07 23:30:07,309: INFO --> file_to_query() --> Table Creation Successful.
+2022-03-07 23:30:07,316: INFO --> read_sheets() --> Execution Successful.
+2022-03-07 23:34:20,765: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:34:20,819: INFO --> list_of_employees() --> Connection Close
+2022-03-07 23:34:20,826: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:34:20,866: INFO --> total_compensation() --> Connection Close
+2022-03-07 23:34:20,977: ERROR --> get_engine() --> Error in engine creation
+2022-03-07 23:34:20,977: INFO --> get_engine() --> Engine successfully created
+2022-03-07 23:34:20,983: INFO --> file_to_query() --> Query Execution Unsuccessful
+2022-03-07 23:34:20,983: INFO --> file_to_query() --> Table Creation Successful.
+2022-03-07 23:34:20,993: INFO --> read_sheets() --> Execution Successful.
+2022-03-07 23:34:40,642: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:34:40,667: INFO --> list_of_employees() --> Connection Close
+2022-03-07 23:34:40,673: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:34:40,694: INFO --> total_compensation() --> Connection Close
+2022-03-07 23:36:29,071: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:36:29,096: INFO --> list_of_employees() --> Connection Close
+2022-03-07 23:36:29,104: INFO --> get_connection() --> Connection successfully established
+2022-03-07 23:36:29,127: INFO --> total_compensation() --> Connection Close
+2022-03-07 23:36:29,199: ERROR --> get_engine() --> Error in engine creation
+2022-03-07 23:36:29,199: INFO --> get_engine() --> Engine successfully created
+2022-03-07 23:36:29,202: INFO --> file_to_query() --> Query Execution Unsuccessful
+2022-03-07 23:36:29,202: INFO --> file_to_query() --> Table Creation Successful.
+2022-03-07 23:36:29,208: INFO --> read_sheets() --> Execution Successful.
